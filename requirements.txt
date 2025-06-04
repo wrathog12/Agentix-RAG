@@ -1,0 +1,32 @@
+# Core Dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+pathlib>=1.0.1
+
+# LangChain Dependencies
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-huggingface>=0.0.1
+
+# Vector Store and Embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# API Dependencies
+huggingface-hub>=0.19.0
+google-search-results>=2.4.2
+
+# Utility Dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+pydantic>=2.0.0
+
+# Optional: For better performance
+torch>=2.0.0
+transformers>=4.30.0
+
+# Development Dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
