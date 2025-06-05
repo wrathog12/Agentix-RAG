@@ -28,7 +28,6 @@ A robust, intelligent multi-source information retrieval system that combines lo
 
 - Python 3.8+
 - HuggingFace API Token
-- SerpAPI Key (for web search)
 
 ## 🚀 Installation
 
